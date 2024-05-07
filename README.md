@@ -38,7 +38,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,py,java,ts,js,html,css,rust,swift,go,matlab,r" />
     <br/><br/><br/>
-    <img src="https://skillicons.dev/icons?i=django,express,flask,nestjs,vue," /><br>
+    <img src="https://skillicons.dev/icons?i=django,express,flask,fastapi,spring,nestjs,nextjs,react,vue,nuxtjs" /><br>
     <br/><br/><br/>
     <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,git,github" /><br>
      <br/><br/><br/>
