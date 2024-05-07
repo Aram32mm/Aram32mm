@@ -4,21 +4,40 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👁️+👄+👁;Hi+There!+😁;+I'm+Aram!+🕴🏻;Welcome+to+my+git+🤓" />
 </h1>
 
-<h3 align="center"> 🇲🇽 Software Engineer </h3>
+<h3 align="center"> 👨‍💻 Software Engineer | Mexico 🇲🇽 </h3>
 
 <br/>
 
 <div align="center">
+  <p>🔭 Currently developing:</p>
+  <ul>
+    <li><strong>Automated Backend Generator</strong> - Streamlining backend processes.</li>
+    <li><strong>Insight Provider SaaS for Amazon</strong> - Enhancing data-driven decisions.</li>
+    <li><strong>Serverless OpenAI Chatbot</strong> - Implementing AI to improve user interactions.</li>
+  </ul>
+  <p>🌱 Expanding my expertise in:</p>
+  <ul>
+    <li><strong>Rust</strong> - Embracing system-level programming.</li>
+    <li><strong>Spring Boot</strong> - Building robust, scalable Java applications.</li>
+    <li><strong>React</strong> - Creating dynamic user interfaces.</li>
+  </ul>
+  <p>🔧 Skilled in <strong>Backend Systems</strong>, <strong>DevOps</strong>, and <strong>System Design</strong>.</p>
+  <p>💬 Have questions or want to chat? Check out my <a href="https://github.com/Aram32mm/Aram32mm/issues">GitHub discussions</a>!</p>
+  <p>⚡ Also passionate about <strong>Fitness</strong>, <strong>Health</strong>, <strong>Spirituality</strong>, and <strong>Self-Improvement</strong>.</p>
+</div>
+
+
+<div align="center">
  
- 🔭 I’m currently working on a **automated backend generator**
+ 🔭 I’m currently working on a **automated backend generator**, **insight provider sass for Amaznon**, **serverlesss openai chatbot**
  
  🌱 I’m currently learning **Rust**, **SpringBoot** and **React**.
 
- 🔧 Skilled in Backend Systems, DevOps, and System Design
+ 🔧 Skilled in *Backend Systems*, *DevOps*, and *System Design*
 
 💬 Have questions or want to chat? Check out my **[GitHub discussions](https://github.com/Aram32mm/Aram32mm/issues)!**
 
-⚡ Also passionate in **Fitness**, **Health**, **Spirituality**, and **Self-Improvement**
+⚡ Also passionate about **Fitness**, **Health**, **Spirituality**, and **Self-Improvement**
  </div>
  
 <div align="center"> 
