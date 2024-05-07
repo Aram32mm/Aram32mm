@@ -8,22 +8,26 @@
 
 <br/>
 
-<div align="center" style="text-align: left; font-size: 18px;">
-  <p>🔭 Currently developing:</p>
-  <ul style="list-style-type: none;">
-    <li><strong>Insight Provider SaaS for Amazon</strong> - Enhancing data-driven decisions.</li>
-    <li><strong>Serverless OpenAI Chatbot</strong> - Implementing AI to improve user interactions.</li>
-    <li><strong>Automated Backend Generator</strong> - Streamlining backend processes.</li>   
-  </ul>
-  <p>🌱 Expanding my expertise in:</p>
-  <ul>
-    <li><strong>Spring Boot</strong> - Building robust, scalable Java applications.</li>
-    <li><strong>React</strong> - Creating dynamic user interfaces.</li>
-    <li><strong>Rust</strong> - Embracing system-level programming.</li>
-  </ul>
-  <p>🔧 Skilled in <strong>Backend Systems</strong>, <strong>DevOps</strong>, and <strong>System Design</strong>.</p>
-  <p>💬 Have questions or want to chat? Check out my <a href="https://github.com/Aram32mm/Aram32mm/issues">GitHub discussions</a>!</p>
-  <p>⚡ Also passionate about <strong>Fitness</strong>, <strong>Health</strong>, <strong>Spirituality</strong>, and <strong>Self-Improvement</strong>.</p>
+<div align="center">
+  ## 🛠 Currently Developing
+    - **Automated Backend Generator** - Streamlining backend processes.
+    - **Insight Provider SaaS for Amazon** - Enhancing data-driven decisions.
+    - **Serverless OpenAI Chatbot** - Implementing AI to improve user interactions.
+    ## 🌱 Expanding My Expertise
+    - **Rust** - Embracing system-level programming.
+    - **Spring Boot** - Building robust, scalable Java applications.
+    - **React** - Creating dynamic user interfaces.
+    ### Skills
+    - **Backend Systems**
+    - **DevOps**
+    - **System Design**   
+    ### Have Questions or Want to Chat?
+    Check out my [GitHub discussions](https://github.com/Aram32mm/Aram32mm/issues)!
+    ### ⚡ Also Passionate About
+    - **Fitness**
+    - **Health**
+    - **Spirituality**
+    - **Self-Improvement**
 </div>
 
  
