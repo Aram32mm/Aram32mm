@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center">
+<div align="center" style="text-align: left; font-size: 18px;">
   <p>🔭 Currently developing:</p>
   <ul style="list-style-type: none;">
     <li><strong>Insight Provider SaaS for Amazon</strong> - Enhancing data-driven decisions.</li>
