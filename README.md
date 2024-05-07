@@ -8,18 +8,18 @@
 
 <br/>
 
-<div align="center" style="text-align: left;">
+<div align="center">
   <p>🔭 Currently developing:</p>
   <ul style="list-style-type: none;">
-    <li><strong>Automated Backend Generator</strong> - Streamlining backend processes.</li>
     <li><strong>Insight Provider SaaS for Amazon</strong> - Enhancing data-driven decisions.</li>
     <li><strong>Serverless OpenAI Chatbot</strong> - Implementing AI to improve user interactions.</li>
+    <li><strong>Automated Backend Generator</strong> - Streamlining backend processes.</li>   
   </ul>
   <p>🌱 Expanding my expertise in:</p>
-  <ul style="list-style-type: none;">
-    <li><strong>Rust</strong> - Embracing system-level programming.</li>
+  <ul>
     <li><strong>Spring Boot</strong> - Building robust, scalable Java applications.</li>
     <li><strong>React</strong> - Creating dynamic user interfaces.</li>
+    <li><strong>Rust</strong> - Embracing system-level programming.</li>
   </ul>
   <p>🔧 Skilled in <strong>Backend Systems</strong>, <strong>DevOps</strong>, and <strong>System Design</strong>.</p>
   <p>💬 Have questions or want to chat? Check out my <a href="https://github.com/Aram32mm/Aram32mm/issues">GitHub discussions</a>!</p>
