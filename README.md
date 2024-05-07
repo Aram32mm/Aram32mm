@@ -10,13 +10,13 @@
 
 <div align="center" style="text-align: left;">
   <p>🔭 Currently developing:</p>
-  <ul>
+  <ul style="list-style-type: none;">
     <li><strong>Automated Backend Generator</strong> - Streamlining backend processes.</li>
     <li><strong>Insight Provider SaaS for Amazon</strong> - Enhancing data-driven decisions.</li>
     <li><strong>Serverless OpenAI Chatbot</strong> - Implementing AI to improve user interactions.</li>
   </ul>
   <p>🌱 Expanding my expertise in:</p>
-  <ul>
+  <ul style="list-style-type: none;">
     <li><strong>Rust</strong> - Embracing system-level programming.</li>
     <li><strong>Spring Boot</strong> - Building robust, scalable Java applications.</li>
     <li><strong>React</strong> - Creating dynamic user interfaces.</li>
