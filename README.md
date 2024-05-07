@@ -14,7 +14,8 @@
  
  🌱 I’m currently learning **Rust**
 
-💬 Ask me about **Backend Systems, DevOps, System Design, or anything else that piques your interest. Join the conversation [here](https://github.com/Aram32mm/Aram32mm/issues)!**
+💬 Ask me about **Backend Systems**, **DevOps**, **System Design**, or anything else that piques your interest. 
+**Join the conversation [here](https://github.com/Aram32mm/Aram32mm/issues)!**
 
 ⚡ Beyond my tech pursuits, I'm deeply interested in **Fitness**, **Health**, **Spirituality**, and **Self-Improvement**
  </div>
