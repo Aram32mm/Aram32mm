@@ -4,29 +4,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👁️+👄+👁;Hi+There!+😁;+I'm+Aram!+🕴🏻;Welcome+to+my+git+🤓" />
 </h1>
 
-<h3 align="center">Software developer from Mexico 🇲🇽 | Exploring new tech landscapes | Let's connect and collaborate!</h3>
+<h3 align="center"> Software Developer from Mexico 🇲🇽 </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **an automatized backend generator**
+ 🔭 I’m currently working on a **automated backend generator**
  
  🌱 I’m currently learning **Rust**
 
-💬 Ask me about **Backend Systems, DevOps, System's Design ... or anything [here](https://github.com/Aram32mm/Aram32mm/issues)**
+💬 Ask me about **Backend Systems, DevOps, System Design, or anything else that piques your interest. Join the conversation [here](https://github.com/Aram32mm/Aram32mm/issues)!**
 
-⚡ Other areas I'm deeply interested in are **Fitness, Health, Spirituality, and Self-Improvement**
-
+⚡ Beyond my tech pursuits, I'm deeply interested in **Fitness**, **Health**, **Spirituality**, and **Self-Improvement**
  </div>
- ### 🌟 Passionate Software Developer from Mexico 🇲🇽
-
-- 🔭 **Currently working on:** An automated backend generator.
-- 🌱 **Currently learning:** Rust and other cutting-edge technologies.
-- 💬 **Ask me about:** Backend systems, DevOps, system design, or anything else on my [GitHub issues](https://github.com/Aram32mm/Aram32mm/issues).
-- ⚡ **Interests:** Deeply passionate about fitness, health, spirituality, and self-improvement.
-
-
  
 <div align="center"> 
   <a href="mailto:jose.aram.mendez@gmail.com">
