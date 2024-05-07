@@ -68,6 +68,7 @@
 <br/><br/>
 
 <hr/>
+<h2 align="center">👇🏼More About Me (Pinned Repos, Contributitions(Private Included), Activity, etc...)👇🏼</h2>
 
 <br/>
 
