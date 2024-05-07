@@ -10,14 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **an automatized backend generator**
  
  🌱 I’m currently learning **Rust**
 
-💬 Ask me about **Backend Systems, Docker, Kubernetes ... or anything [here](https://github.com/Aram32mm/Aram32mm/issues)**
+💬 Ask me about **Backend Systems, DevOps, System's Design ... or anything [here](https://github.com/Aram32mm/Aram32mm/issues)**
 
-⚡ Joke -> How many developers does it take to screw in a lightbulb? 
-**None. It’s a hardware problem.**
+⚡ Other areas I'm deeply interested in: ** Fitness, Health, Spirituality, Eating**
 
  </div>
  
