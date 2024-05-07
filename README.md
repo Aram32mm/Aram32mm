@@ -16,7 +16,7 @@
 
 💬 Ask me about **Backend Systems, DevOps, System's Design ... or anything [here](https://github.com/Aram32mm/Aram32mm/issues)**
 
-⚡ Other areas I'm deeply interested in: ** Fitness, Health, Spirituality, Eating**
+⚡ Other areas I'm deeply interested in: **Fitness, Health, Spirituality, Eating**
 
  </div>
  
