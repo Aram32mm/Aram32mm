@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👁️+👄+👁;Hi+There!+😁;+I'm+Aram!+🕴🏻;Welcome+to+my+git+🤓" />
 </h1>
 
-<h3 align="center"> Software Developer from Mexico 🇲🇽 </h3>
+<h3 align="center"> 🇲🇽 Software Engineer </h3>
 
 <br/>
 
@@ -12,13 +12,13 @@
  
  🔭 I’m currently working on a **automated backend generator**
  
- 🌱 I’m currently learning **Rust**
+ 🌱 I’m currently learning **Rust**, **SpringBoot** and **React**.
 
-💬 Ask me about **Backend Systems**, **DevOps**, **System Design**, or anything else that piques your interest. 
-<br/>
-**Join the conversation [here](https://github.com/Aram32mm/Aram32mm/issues)!**
+ 🔧 Skilled in Backend Systems, DevOps, and System Design
 
-⚡ Beyond my tech pursuits, I'm deeply interested in **Fitness**, **Health**, **Spirituality**, and **Self-Improvement**
+💬 Have questions or want to chat? Check out my **[GitHub discussions](https://github.com/Aram32mm/Aram32mm/issues)!**
+
+⚡ Also passionate in **Fitness**, **Health**, **Spirituality**, and **Self-Improvement**
  </div>
  
 <div align="center"> 
