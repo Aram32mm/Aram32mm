@@ -26,19 +26,6 @@
   <p>⚡ Also passionate about <strong>Fitness</strong>, <strong>Health</strong>, <strong>Spirituality</strong>, and <strong>Self-Improvement</strong>.</p>
 </div>
 
-
-<div align="center">
- 
- 🔭 I’m currently working on a **automated backend generator**, **insight provider sass for Amaznon**, **serverlesss openai chatbot**
- 
- 🌱 I’m currently learning **Rust**, **SpringBoot** and **React**.
-
- 🔧 Skilled in *Backend Systems*, *DevOps*, and *System Design*
-
-💬 Have questions or want to chat? Check out my **[GitHub discussions](https://github.com/Aram32mm/Aram32mm/issues)!**
-
-⚡ Also passionate about **Fitness**, **Health**, **Spirituality**, and **Self-Improvement**
- </div>
  
 <div align="center"> 
   <a href="mailto:jose.aram.mendez@gmail.com">
