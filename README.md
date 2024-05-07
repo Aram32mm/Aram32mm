@@ -10,20 +10,23 @@
 
 <div align="center">
     ##🛠 Currently Developing
-    
     -**Automated Backend Generator** - Streamlining backend processes.
     -**Insight Provider SaaS for Amazon** - Enhancing data-driven decisions.
     -**Serverless OpenAI Chatbot** - Implementing AI to improve user interactions.
+    <br/>
     ## 🌱 Expanding My Expertise
     - **Rust** - Embracing system-level programming.
     - **Spring Boot** - Building robust, scalable Java applications.
     - **React** - Creating dynamic user interfaces.
+    <br/>
     ### Skills
     - **Backend Systems**
     - **DevOps**
     - **System Design**   
+    <br/>
     ### Have Questions or Want to Chat?
     Check out my [GitHub discussions](https://github.com/Aram32mm/Aram32mm/issues)!
+    <br/>
     ### ⚡ Also Passionate About
     - **Fitness**
     - **Health**
