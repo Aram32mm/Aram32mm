@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center">
+<div align="center" style="text-align: left;">
   <p>🔭 Currently developing:</p>
   <ul>
     <li><strong>Automated Backend Generator</strong> - Streamlining backend processes.</li>
