@@ -33,16 +33,14 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools-Cloud ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,py,java,ts,js,html,css,rust,swift,go,matlab,r" />
-    <br/><br/><br/>
+    <br/><br/>
     <img src="https://skillicons.dev/icons?i=django,express,flask,fastapi,spring,nestjs,nextjs,react,vue,nuxtjs" /><br>
-    <br/><br/><br/>
-    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,git,github" /><br>
-     <br/><br/><br/>
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp" /><br>
+    <br/><br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,aws,azure,gcp,git,docker,kubernetes,rabbitmq" /><br>
 </div>
 
 <br/>
