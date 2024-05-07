@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aram32mm.Aram32mm" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=👁️+👄+👁;Hi+There!+😁;+I'm+Aram!+🕴🏻;Welcome+to+my+git+🤓" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👁️+👄+👁;Hi+There!+😁;+I'm+Aram!+🕴🏻;Welcome+to+my+git+🤓" />
 </h1>
 
 <h3 align="center"> Software Developer from Mexico 🇲🇽 </h3>
