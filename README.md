@@ -19,6 +19,14 @@
 ⚡ Other areas I'm deeply interested in are **Fitness, Health, Spirituality, and Self-Improvement**
 
  </div>
+ ### 🌟 Passionate Software Developer from Mexico 🇲🇽
+
+- 🔭 **Currently working on:** An automated backend generator.
+- 🌱 **Currently learning:** Rust and other cutting-edge technologies.
+- 💬 **Ask me about:** Backend systems, DevOps, system design, or anything else on my [GitHub issues](https://github.com/Aram32mm/Aram32mm/issues).
+- ⚡ **Interests:** Deeply passionate about fitness, health, spirituality, and self-improvement.
+
+
  
 <div align="center"> 
   <a href="mailto:jose.aram.mendez@gmail.com">
