@@ -9,32 +9,22 @@
 <br/>
 
 <div align="center">
-    🔭 Currently developing:
-    **Insight Provider SaaS for Amazon** - Enhancing data-driven decisions.
-    **Serverless OpenAI Chatbot** - Implementing AI to improve user interactions.
-    **Automated Backend Generator** - Streamlining backend processes.
-    🌱 Expanding my expertise in:
-    **Spring Boot** - Building robust, scalable Java applications.
-    **React** - Creating dynamic user interfaces.
-    **Rust** - Embracing system-level programming.
-    🔧 Skilled in **Backend Systems**, **DevOps**, and **System Design**.
-    💬 Have questions or want to chat? Check out my **[Github discussions](https://github.com/Aram32mm/Aram32mm/issues)**
-    ⚡ Also passionate about **Fitness**, **Health**, **Spirituality**, and **Self-Improvement**.
-</div>
-<div align="center">
-    🔭 Currently developing:
+    🔭 Currently developing:<br>
     <strong>Insight Provider SaaS for Amazon</strong> - Enhancing data-driven decisions.<br>
     <strong>Serverless OpenAI Chatbot</strong> - Implementing AI to improve user interactions.<br>
     <strong>Automated Backend Generator</strong> - Streamlining backend processes.<br>
-    🌱 Expanding my expertise in:
+    <br>
+    🌱 Expanding my expertise in:<br>
     <strong>Spring Boot</strong> - Building robust, scalable Java applications.<br>
     <strong>React</strong> - Creating dynamic user interfaces.<br>
     <strong>Rust</strong> - Embracing system-level programming.<br>
+    <br>
     🔧 Skilled in <strong>Backend Systems</strong>, <strong>DevOps</strong>, and <strong>System Design</strong>.<br>
-    💬 Have questions or want to chat? Check out my <strong><a href="https://github.com/Aram32mm/Aram32mm/issues">Github discussions</a></strong><br>
-    ⚡ Also passionate about <strong>Fitness</strong>, <strong>Health</strong>, <strong>Spirituality</strong>, and <strong>Self-Improvement</strong>.
+    <br>
+    💬 Have questions or want to chat? Check out my <a href="https://github.com/Aram32mm/Aram32mm/issues"><strong>Github discussions</strong></a><br>
+    <br>
+    ⚡ Also passionate about <strong>Fitness</strong>, <strong>Health</strong>, <strong>Spirituality</strong>, and <strong>Self-Improvement</strong>.<br>
 </div>
-
 
 <div align="center"> 
   <a href="mailto:jose.aram.mendez@gmail.com">
