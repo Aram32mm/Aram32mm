@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/aram-mendez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://blank.page/" target="_blank">
+  <a href="https://miscompetenciastec21.tec.mx/elumen/portfolio/NQmaXkEUa0Jhm6jpG" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
