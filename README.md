@@ -10,8 +10,8 @@
 
 <div align="center" style="text-align: left; font-size: 18px;">
   <p>🔭 Currently developing:</p>
-  <ul style="list-style-type: none;">
-    <li><strong>Insight Provider SaaS for Amazon</strong> - Enhancing data-driven decisions.</li>
+  <ul>
+    <li style="list-style-type: none;"><strong>Insight Provider SaaS for Amazon</strong> - Enhancing data-driven decisions.</li>
     <li><strong>Serverless OpenAI Chatbot</strong> - Implementing AI to improve user interactions.</li>
     <li><strong>Automated Backend Generator</strong> - Streamlining backend processes.</li>   
   </ul>
