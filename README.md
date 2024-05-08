@@ -10,26 +10,31 @@
 
 <div align="center">
     🔭 Currently developing:
-    <br/><br/>
     **Insight Provider SaaS for Amazon** - Enhancing data-driven decisions.
-    <br/><br/>
     **Serverless OpenAI Chatbot** - Implementing AI to improve user interactions.
-    <br/><br/>
     **Automated Backend Generator** - Streamlining backend processes.
-    <br/><br/>
     🌱 Expanding my expertise in:
-     <br/
-         ><br/>
     **Spring Boot** - Building robust, scalable Java applications.
     **React** - Creating dynamic user interfaces.
     **Rust** - Embracing system-level programming.
-    <br/><br/>
     🔧 Skilled in **Backend Systems**, **DevOps**, and **System Design**.
-    <br/><br/>
     💬 Have questions or want to chat? Check out my **[Github discussions](https://github.com/Aram32mm/Aram32mm/issues)**
-    <br/><br/>
     ⚡ Also passionate about **Fitness**, **Health**, **Spirituality**, and **Self-Improvement**.
 </div>
+<div align="center">
+    🔭 Currently developing:
+    <strong>Insight Provider SaaS for Amazon</strong> - Enhancing data-driven decisions.<br>
+    <strong>Serverless OpenAI Chatbot</strong> - Implementing AI to improve user interactions.<br>
+    <strong>Automated Backend Generator</strong> - Streamlining backend processes.<br>
+    🌱 Expanding my expertise in:
+    <strong>Spring Boot</strong> - Building robust, scalable Java applications.<br>
+    <strong>React</strong> - Creating dynamic user interfaces.<br>
+    <strong>Rust</strong> - Embracing system-level programming.<br>
+    🔧 Skilled in <strong>Backend Systems</strong>, <strong>DevOps</strong>, and <strong>System Design</strong>.<br>
+    💬 Have questions or want to chat? Check out my <strong><a href="https://github.com/Aram32mm/Aram32mm/issues">Github discussions</a></strong><br>
+    ⚡ Also passionate about <strong>Fitness</strong>, <strong>Health</strong>, <strong>Spirituality</strong>, and <strong>Self-Improvement</strong>.
+</div>
+
 
 <div align="center"> 
   <a href="mailto:jose.aram.mendez@gmail.com">
