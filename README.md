@@ -24,6 +24,7 @@
     💬 Have questions or want to chat? Check out my <a href="https://github.com/Aram32mm/Aram32mm/issues"><strong>Github discussions</strong></a><br>
     <br>
     ⚡ Also passionate about <strong>Fitness</strong>, <strong>Health</strong>, <strong>Spirituality</strong>, and <strong>Self-Improvement</strong>.<br>
+    <br>
 </div>
 
 <div align="center"> 
