@@ -10,7 +10,7 @@
 
 <div align="center">
     🔭 Currently developing:
-    **Insight Provider SaaS for Amazon</strong>** - Enhancing data-driven decisions.
+    **Insight Provider SaaS for Amazon** - Enhancing data-driven decisions.
     **Serverless OpenAI Chatbot** - Implementing AI to improve user interactions.
     **Automated Backend Generator** - Streamlining backend processes.
     <br/><br/>
