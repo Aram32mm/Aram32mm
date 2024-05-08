@@ -10,11 +10,16 @@
 
 <div align="center">
     🔭 Currently developing:
+    <br/><br/>
     **Insight Provider SaaS for Amazon** - Enhancing data-driven decisions.
+    <br/><br/>
     **Serverless OpenAI Chatbot** - Implementing AI to improve user interactions.
+    <br/><br/>
     **Automated Backend Generator** - Streamlining backend processes.
     <br/><br/>
     🌱 Expanding my expertise in:
+     <br/
+         ><br/>
     **Spring Boot** - Building robust, scalable Java applications.
     **React** - Creating dynamic user interfaces.
     **Rust** - Embracing system-level programming.
