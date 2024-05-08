@@ -9,21 +9,21 @@
 <br/>
 
 <div align="center">
-🔭 Currently developing:
- **Insight Provider SaaS for Amazon</strong>** - Enhancing data-driven decisions.
- **Serverless OpenAI Chatbot** - Implementing AI to improve user interactions.
- **Automated Backend Generator** - Streamlining backend processes.
-<br/><br/>
-🌱 Expanding my expertise in:
- **Spring Boot** - Building robust, scalable Java applications.
- **React** - Creating dynamic user interfaces.
- **Rust** - Embracing system-level programming.
+    🔭 Currently developing:
+    **Insight Provider SaaS for Amazon</strong>** - Enhancing data-driven decisions.
+    **Serverless OpenAI Chatbot** - Implementing AI to improve user interactions.
+    **Automated Backend Generator** - Streamlining backend processes.
     <br/><br/>
-🔧 Skilled in **Backend Systems**, **DevOps**, and **System Design**.
+    🌱 Expanding my expertise in:
+    **Spring Boot** - Building robust, scalable Java applications.
+    **React** - Creating dynamic user interfaces.
+    **Rust** - Embracing system-level programming.
     <br/><br/>
-💬 Have questions or want to chat? Check out my **[Github discussions](https://github.com/Aram32mm/Aram32mm/issues)**
+    🔧 Skilled in **Backend Systems**, **DevOps**, and **System Design**.
     <br/><br/>
-⚡ Also passionate about **Fitness**, **Health**, **Spirituality**, and **Self-Improvement**.
+    💬 Have questions or want to chat? Check out my **[Github discussions](https://github.com/Aram32mm/Aram32mm/issues)**
+    <br/><br/>
+    ⚡ Also passionate about **Fitness**, **Health**, **Spirituality**, and **Self-Improvement**.
 </div>
 
 <div align="center"> 
