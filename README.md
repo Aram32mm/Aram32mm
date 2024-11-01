@@ -9,9 +9,8 @@
 <br/>
 
 <div align="center">
-    🔭 Currently developing:<br>
-    <strong>Insight Provider SaaS for Amazon</strong> - Enhancing data-driven decisions.<br>
-    <strong>Serverless OpenAI Chatbot</strong> - Implementing AI to improve user interactions.<br>
+    🔭 Currently developing:<br>\
+    <strong>Reactive Applications</strong> - Leveraging reactive programming for efficient, event-driven architectures.<br>
     <strong>Automated Backend Generator</strong> - Streamlining backend processes.<br>
     <br>
     🌱 Expanding my expertise in:<br>
