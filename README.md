@@ -17,7 +17,7 @@
     🌱 Expanding my expertise in:<br>
     <strong>Rust</strong> - Embracing system-level programming.<br>
     <strong>Reactive Programming</strong> - For efficient, event-driven architectures.<br>
-    <strong>Data Structures & Algorithms</strong> - Enhancing problem-solving skills and performance.
+    <strong>Data Structures & Algorithms</strong> - Enhancing problem-solving skills and performance.<br>
 
     <br>
     🔧 Skilled in <strong>Backend Systems</strong>, <strong>DevOps</strong>, and <strong>System Design</strong>.<br>
