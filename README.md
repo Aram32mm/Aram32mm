@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-    🔭 Currently developing:<br>\
+    🔭 Currently developing:<br>
     <strong>Reactive Applications</strong> - Leveraging reactive programming for efficient, event-driven architectures.<br>
     <strong>Automated Backend Generator</strong> - Streamlining backend processes.<br>
     <br>
