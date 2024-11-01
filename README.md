@@ -15,9 +15,10 @@
     <strong>Automated Backend Generator</strong> - Streamlining backend processes.<br>
     <br>
     🌱 Expanding my expertise in:<br>
-    <strong>Spring Boot</strong> - Building robust, scalable Java applications.<br>
-    <strong>React</strong> - Creating dynamic user interfaces.<br>
     <strong>Rust</strong> - Embracing system-level programming.<br>
+    <strong>Reactive Programming</strong> - For efficient, event-driven architectures.<br>
+    <strong>Data Structures & Algorithms</strong> - Enhancing problem-solving skills and performance.
+
     <br>
     🔧 Skilled in <strong>Backend Systems</strong>, <strong>DevOps</strong>, and <strong>System Design</strong>.<br>
     <br>
