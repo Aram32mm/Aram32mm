@@ -24,7 +24,7 @@
     <br>
     💬 Have questions or want to connect? Check out my <a href="https://github.com/Aram32mm/Aram32mm/issues"><strong>GitHub discussions</strong></a><br>
     <br>
-    ⚡ Beyond tech, I'm passionate about <strong>Fitness</strong>, <strong>Health</strong>, <strong>Spirituality</strong>, <strong>Philosophy</strong>, <strong>Geopolitics</strong<br>, <strong>Finance</strong>, <strong>Linguistics</strong...
+    ⚡ Beyond tech, I'm passionate about <strong>Fitness</strong>, <strong>Health</strong>, <strong>Spirituality</strong>, <strong>Philosophy</strong>, <strong>Geopolitics</strong<br>, <strong>Finance</strong>, <strong>Linguistics</strong>...
     <br>
 </div>
 
