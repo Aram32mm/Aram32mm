@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-    🔭 Currently working as an <strong>Intern at Deutsche Bank</strong><br>
+    🔭 Currently working as an <strong>Intern at Google</strong><br>
     <br>
     🚧 On the side, I'm building:<br>
     <strong>Muscle Load Optimizer App</strong> – A smart tool to optimize hypertrophy-focused training loads.<br>
