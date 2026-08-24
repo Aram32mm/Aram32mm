@@ -9,17 +9,6 @@
 <br/>
 
 <div align="center">
-    🔭 Currently working as an <strong>Intern at Google</strong><br>
-    <br>
-    🚧 On the side, I'm building:<br>
-    <strong>Muscle Load Optimizer App</strong> – A smart tool to optimize hypertrophy-focused training loads.<br>
-    <strong>Next-Gen Social Platform</strong> – Rethinking social media to foster deeper, meaningful connections.<br>
-    <br>
-    🌱 Currently expanding my knowledge in:<br>
-    <strong>Machine Learning & AI Fundamentals</strong> – Strengthening theoretical foundations and practical skills.<br>
-    <strong>Data Structures & Algorithms</strong> – Honing problem-solving and performance optimization.<br>
-    <strong>NestJS & FastAPI</strong> – Exploring modern backend frameworks for scalable, maintainable systems.<br>
-    <br>
     🔧 Skilled in <strong>Backend Systems</strong>, <strong>DevOps</strong>, and <strong>System Design</strong>.<br>
     <br>
     💬 Have questions or want to connect? Check out my <a href="https://github.com/Aram32mm/Aram32mm/issues"><strong>GitHub discussions</strong></a><br>
